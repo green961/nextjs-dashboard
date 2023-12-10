@@ -1,0 +1,21 @@
+  <p
+      className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
+    >
+
+
+[{
+	"resource": "/home/aa/rare/1209/nextjs-dashboard/app/ui/global.css",
+	"owner": "_generated_diagnostic_collection_name_#2",
+	"code": "unknownAtRules",
+	"severity": 4,
+	"message": "Unknown at rule @tailwind",
+	"source": "css",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 10
+}]
+
+
+npx create-next-app@latest nextjs-dashboard --use-npm --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example"
+npx create-next-app@latest miku --use-npm --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example"
